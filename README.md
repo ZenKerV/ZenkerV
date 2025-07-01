@@ -1,4 +1,4 @@
-Hi ![][(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://tenor.com/th/view/whinnie-winnie-the-pooh-winnie-pooh-butterfly-gif-17606665696026581649)My name is Phumiphat Umpornpis
+Hi ![][(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phumiphat Umpornpis
 ===========================================================================================================================================
 
 Computer Engineer(CPE)
