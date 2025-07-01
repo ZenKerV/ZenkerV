@@ -25,10 +25,12 @@ I am a university student who is starting to practice writing code. Please follo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ZenKerV"><img src="https://github-readme-stats.vercel.app/api?username=ZenKerV&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&show_icons=true" alt="ZenKerV's GitHub stats" /></a>
-
+<a [href="http://www.github.com/ZenKerV"><img src="https://github-readme-stats.vercel.app/api?username=ZenKerV&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&show_icons=true" alt="ZenKerV's GitHub stats" /></a>
+](https://camo.githubusercontent.com/0a61283b258a8c7b0bfa097a878983809859e6672ba668eae43c19d610b5fde0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d646d6f6f736f636f6f6c26686964655f7469746c653d7472756526686964655f626f726465723d747275652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565266c696e655f6865696768743d32312662675f636f6c6f723d302c4543364336432c4646443437392c4646464337392c373346413739267468656d653d677261797768697465)
 <a href="http://www.github.com/ZenKerV"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZenKerV&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/ZenKerV" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenKerV&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+
